@@ -13,7 +13,7 @@ export default function Home() {
             <li><b>Adama</b></li>
             <li><b>Franck</b></li>
             <li><b>Moustapha</b></li>
-            <li><b>Wilfried</b></li>
+            <li><b>Wilfried KONE</b></li>
           </ul>
 
         </p>
