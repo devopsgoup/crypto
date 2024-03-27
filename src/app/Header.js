@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header className={styles.header}> {/* Appliquer la classe CSS définie */}
       <div className={styles.logo}>
-        {/* Logo */}
+        {/* logo */}
         <Link href="/">
           <Image
             src="/logo.png"
@@ -18,7 +18,7 @@ const Header = () => {
         </Link>
       </div>
       <nav>
-        {/* Menu de navigation */}
+        {/* navigation menu */}
         <ul className={styles.navLinks}> {/* Ajouter une classe à la balise <ul> */}
           <li>
             <Link href="/">
