@@ -4,7 +4,7 @@ import Link from 'next/link';
 const UserPage = () => {
   // Données de l'utilisateur
   const userData = [
-    { email: 'utilisateur@example.com', nom: 'M Kevin Akoua', portefeuille: '1234 ETH' }
+    { email: 'utilisateur@gmail.com', nom: 'M Kevin Akoua', portefeuille: '1234 ETH' }
   ];
 
   return (
