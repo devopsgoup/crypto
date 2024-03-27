@@ -9,10 +9,13 @@ export default function Home() {
           <code className="font-mono font-bold">src/app/page.js</code>
         </p>
         <p>
-          <b>Adama</b>
-          <b>Franck</b>
-          <b>Moustapha</b>
-          <b>Wilfried</b>
+          <ul>
+            <li><b>Adama</b></li>
+            <li><b>Franck</b></li>
+            <li><b>Moustapha</b></li>
+            <li><b>Wilfried KONE</b></li>
+          </ul>
+
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
