@@ -10,7 +10,7 @@ export default function Page() {
         <p className="text-lg mb-8">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis odio at erat fermentum, sit amet consequat ipsum molestie.
           Maecenas ac ex ac nisi eleifend venenatis. Duis bibendum magna vel eros bibendum, sed aliquet felis lobortis. Donec blandit
-          ligula vel tristique varius. Curabitur malesuada turpis vitae mauris vestibulum, nec hendrerit justo consequat. Sed euismod
+          ligula vel tristique varius. Curabitur malesuada vitae mauris vestibulum, nec hendrerit justo consequat. Sed euismod
           dolor ut nulla ultricies ullamcorper.
         </p>
         <div className="flex justify-center" style={{ padding: '20px' }}>
